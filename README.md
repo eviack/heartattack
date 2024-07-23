@@ -11,9 +11,12 @@ This project provides a comprehensive tool for predicting heart disease using **
 - **Prediction with probability score:** It predicts the presence of heart disease based on the input features and also tells the chances of heart attack.
 
 ## Classification Report
-
-
+![crf](https://github.com/user-attachments/assets/da9e1b18-49fc-4426-932b-bf580057d372)
 
 ## Screenshots
+![h1](https://github.com/user-attachments/assets/53d8a355-b673-4e0e-98a5-edb24f1c9119)
+
+![h2](https://github.com/user-attachments/assets/113de5a5-b0cc-4982-bc53-ccb00eb24ce9)
+
 
 
